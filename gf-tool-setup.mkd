@@ -1,0 +1,12 @@
+#    To perform the pattern based search, you need to add patterns to the gf tool.
+
+> git clone https://github.com/tomnomnom/gf> git clone https://github.com/1ndianl33t/Gf-Patterns
+
+
+> $ mkdir .gf
+
+#    Copy all the patterns from gf and Gf-Patterns to .gf directory.
+
+cd /gf/examples
+cp * /root/.gfcd /Gf-Patterns
+cp * /root/.gf
